@@ -1,11 +1,11 @@
-import React from "react"
 
+function App() {
 
-
-export default function App() {
-    return (
-        <div>
-            <Header />
-        </div>
-    )
+  return (
+    <>
+     
+    </>
+  )
 }
+
+export default App
